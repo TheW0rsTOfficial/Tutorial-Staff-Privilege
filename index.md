@@ -8,29 +8,31 @@ Il Prefix (Prefisso) del bot è: -
 Esempio: -statuswhitelist
 
 ```markdown
-Syntax highlighted code block
+Comandi
 
-# Header 1
-## Header 2
-### Header 3
+# statuswhitelist
 
-- Bulleted
-- List
+-statuswhitelist: steam:hex
+esempio: -statuswhitelist: steam:dfgdfgd
 
-1. Numbered
-2. List
+## statuswhitelistds
 
-**Bold** and _Italic_ and `Code` text
+-statuswhitelist: ds:id
+esempio: -statuswhitelistds: ds:81201843900238
 
-[Link](url) and ![Image](src)
-```
+### addwhitelist
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-addwhitelist: steam:hex ds:id staff:Nome staff
+esempio: -addwhitelist: steam:sd32gsd3 ds:8345345934 staff:TheWorst
+Ps. Ricordiamo è assolutissimamente importante mettere il vero nome dello staff.
 
-### Jekyll Themes
+#### removewhitelist
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheW0rsTOfficial/server/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-removewhitelist: steam:hex 
+esempio: -removewhitelist: steam:sd32gsd3 
+Ps. Ricordiamo è assolutissimamente importante non sbagliare steamhex.
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contattate TɦeWσɾst 🤹🏻#8794
