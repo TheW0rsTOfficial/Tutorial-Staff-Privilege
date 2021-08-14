@@ -17,13 +17,13 @@ Esempio: -statuswhitelist
 
 esempio: -statuswhitelist: steam:dfgdfgd
 
-### STATUSWHITELISTDS
+## STATUSWHITELISTDS
 
 -statuswhitelist: ds:id
 
 esempio: -statuswhitelistds: ds:81201843900238
 
-#### ADDWHITELIST
+## ADDWHITELIST
 
 -addwhitelist: steam:hex ds:id staff:Nome staff
 
@@ -31,7 +31,7 @@ esempio: -addwhitelist: steam:sd32gsd3 ds:8345345934 staff:TheWorst
 
 Ps. Ricordiamo è assolutissimamente importante mettere il vero nome dello staff.
 
-##### REMOVEWHITELIST
+## REMOVEWHITELIST
 
 n-removewhitelist: steam:hex
 
