@@ -28,7 +28,7 @@ esempio: -statuswhitelistds: ds:81201843900238
 
 esempio: -addwhitelist: steam:sd32gsd3 ds:8345345934 staff:TheWorst
 
-Ps. Ricordiamo è assolutissimamente importante mettere il vero nome dello staff.
+Ps. Ricordiamo è assolutissimamente importante mettere il Nome Discord dello staff che ha eseguito la whitelist.
 
 ## REMOVEWHITELIST
 
