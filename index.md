@@ -28,9 +28,9 @@ Ps. Ricordiamo è assolutissimamente importante mettere il vero nome dello staff
 
 ##### removewhitelist
 
--removewhitelist: steam:hex 
-esempio: -removewhitelist: steam:sd32gsd3 
-Ps. Ricordiamo è assolutissimamente importante non sbagliare steamhex.
+/n-removewhitelist: steam:hex 
+/nesempio: -removewhitelist: steam:sd32gsd3 
+/nPs. Ricordiamo è assolutissimamente importante non sbagliare steamhex.
 
 
 ### Support or Contact
