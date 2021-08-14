@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Spiegazione Bot Whitelist
 
-You can use the [editor on GitHub](https://github.com/TheW0rsTOfficial/server/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bot Whitelist Discord serve per facilitare uno staff dopo aver eseguito una whitelist a un player.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Prefix
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Il Prefix (Prefisso) del bot è: -
+Esempio: -statuswhitelist
 
 ```markdown
 Syntax highlighted code block
