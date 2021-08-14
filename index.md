@@ -8,7 +8,6 @@ Il Prefix (Prefisso) del bot è: -
 
 Esempio: -statuswhitelist
 
-```markdown
 #Comandi
 
 ## STATUSWHITELIST
